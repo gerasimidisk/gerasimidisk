@@ -1,4 +1,6 @@
-![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTM3YW9pMHNkZHJiMDVxeGJ5dGo1M3VpOHU1eG8xcXpoNWt4MWkwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTM3YW9pMHNkZHJiMDVxeGJ5dGo1M3VpOHU1eG8xcXpoNWt4MWkwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="MasterHead">
+</div>
 <h1 align="center">Hi 👋, I'm Konstantinos Gerasimidis</h1>
 <h3 align="center">A Junior Software Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
