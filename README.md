@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gerasimidisk&label=Profile%20views&color=0e75b6&style=flat" alt="gerasimidisk" /> </p>
 
-- 🌱 I’m currently learning **Node.js, Angular**
+- 🌱 I’m currently learning **Three.js, Angular**
 
 - 💬 Ask me about **Java, SQL**
 
